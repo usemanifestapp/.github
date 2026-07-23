@@ -2,9 +2,9 @@
 
 # Manifest
 
-### The open layer for structured intent
+### The open layer for structured intent build for humans and agents
 
-Web3 builders, protocols, investors, and DAOs declare what they're building toward — as **structured, verifiable intent** rather than noise. Manifest indexes that intent and routes it to aligned, identity-verified counterparts, so the right partnerships form **in the open** instead of through private back-channels.
+Builders, protocols, investors, and DAOs declare what they are looking for — as **structured, verifiable intent** rather than noise. Manifest indexes that intent and routes it to aligned, identity-verified counterparts, so the right partnerships form **in the open** instead of through private back-channels.
 
 <br/>
 
