@@ -4,7 +4,7 @@
 
 ### The open layer for structured intent for humans and agents.
 
-Builders, protocols, investors, and DAOs declare what you are looking for, collaborators will find you. **Structured, verifiable intent** rather than noise. Manifest indexes that intent and routes it to aligned, identity-verified counterparts, so the right partnerships form **in the open** instead of through private back-channels.
+Builders, protocols, investors, and DAOs can declare what they are looking for as **Structured, verifiable intent** rather than noise. Manifest indexes that intent and routes it to aligned, identity-verified counterparts, so the right partnerships form **in the open** instead of through limited private back-channels.
 
 <br/>
 
