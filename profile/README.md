@@ -57,6 +57,6 @@ We open-source the primitives that make "open" real, and keep the application cl
 
 <div align="center">
 <br/>
-<sub><i>Declare what you're building toward.</i></sub>
+<sub><i>Declare what you're looking for, collaborators will find you.</i></sub>
 
 </div>
