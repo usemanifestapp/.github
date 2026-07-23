@@ -44,8 +44,8 @@ We open-source the primitives that make "open" real, and keep the application cl
 
 | Primitive | What it is |
 |---|---|
-| `contracts` | Proof of Collaboration & attestation contracts *(coming soon)* |
-| `intent-spec` | The structured-intent schema & offchain attestation format *(coming soon)* |
+| [`contracts`](https://github.com/usemanifestapp/contracts) | Proof of Collaboration NFT + Partnership & Agent registries |
+| [`intent-spec`](https://github.com/usemanifestapp/intent-spec) | The open, versioned schema for structured intent |
 | [`@manifestintent/sdk`](https://www.npmjs.com/package/@manifestintent/sdk) | TypeScript SDK for the Manifest API — bots, integrations, and independent attestation verification **· live on npm** |
 
 ## Links
