@@ -12,6 +12,8 @@ Web3 builders, protocols, investors, and DAOs declare what they're building towa
 &nbsp;
 [![Whitepaper](https://img.shields.io/badge/whitepaper-read-4f46e5?style=flat-square)](https://www.usemanifest.app/whitepaper.html)
 &nbsp;
+[![npm](https://img.shields.io/npm/v/@manifestintent/sdk?style=flat-square&logo=npm&logoColor=white&label=sdk)](https://www.npmjs.com/package/@manifestintent/sdk)
+&nbsp;
 ![Core license](https://img.shields.io/badge/core-MIT-16a34a?style=flat-square)
 
 </div>
@@ -44,12 +46,13 @@ We open-source the primitives that make "open" real, and keep the application cl
 |---|---|
 | `contracts` | Proof of Collaboration & attestation contracts *(coming soon)* |
 | `intent-spec` | The structured-intent schema & offchain attestation format *(coming soon)* |
-| `manifest-sdk` | Verify an intent attestation independently — signature, expiry, on-chain revocation *(coming soon)* |
+| [`@manifestintent/sdk`](https://www.npmjs.com/package/@manifestintent/sdk) | TypeScript SDK for the Manifest API — bots, integrations, and independent attestation verification **· live on npm** |
 
 ## Links
 
 - 🌐 **App** — [usemanifest.app](https://usemanifest.app)
 - 📄 **Whitepaper** — [The Open Layer for Structured Intent](https://www.usemanifest.app/whitepaper.html)
+- 📦 **SDK** — [`@manifestintent/sdk`](https://www.npmjs.com/package/@manifestintent/sdk) on npm
 - 🔗 **Onchain** — Proof of Collaboration attestations & soulbound badges on Robinhood Chain
 
 <div align="center">
