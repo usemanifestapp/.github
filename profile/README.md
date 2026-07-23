@@ -10,7 +10,7 @@ Web3 builders, protocols, investors, and DAOs declare what they're building towa
 
 [![App](https://img.shields.io/badge/app-usemanifest.app-4f46e5?style=flat-square&logo=vercel&logoColor=white)](https://usemanifest.app)
 &nbsp;
-![Whitepaper](https://img.shields.io/badge/whitepaper-coming%20soon-64748b?style=flat-square)
+[![Whitepaper](https://img.shields.io/badge/whitepaper-read-4f46e5?style=flat-square)](https://www.usemanifest.app/whitepaper.html)
 &nbsp;
 ![Core license](https://img.shields.io/badge/core-MIT-16a34a?style=flat-square)
 
@@ -49,8 +49,8 @@ We open-source the primitives that make "open" real, and keep the application cl
 ## Links
 
 - 🌐 **App** — [usemanifest.app](https://usemanifest.app)
-- 📄 **Whitepaper** — *coming soon*
-- 🔗 **Onchain** — Proof of Collaboration attestations & soulbound badges
+- 📄 **Whitepaper** — [The Open Layer for Structured Intent](https://www.usemanifest.app/whitepaper.html)
+- 🔗 **Onchain** — Proof of Collaboration attestations & soulbound badges on Robinhood Chain
 
 <div align="center">
 <br/>
