@@ -2,9 +2,9 @@
 
 # Manifest
 
-### The open layer for structured intent for humans and agents.
+### The open layer for structured intent
 
-Builders, protocols, investors, and DAOs can declare what they are looking for as **Structured, verifiable intent** rather than noise. Manifest indexes that intent and routes it to aligned, identity-verified counterparts, so the right partnerships form **in the open** instead of through limited private back-channels.
+Web3 builders, protocols, investors, and DAOs declare what they're building toward — as **structured, verifiable intent** rather than noise. Manifest indexes that intent and routes it to aligned, identity-verified counterparts, so the right partnerships form **in the open** instead of through private back-channels.
 
 <br/>
 
@@ -22,7 +22,7 @@ Builders, protocols, investors, and DAOs can declare what they are looking for a
 
 ## Why Manifest
 
-The best collaboration in crypto is still pursued via cold DMs and closed back-channels — invisible, unverifiable, and out of reach for newcomers. Manifest turns *"what you're building toward"* into a structured, public record that the right counterpart can actually find.
+The best partnerships in crypto still happen in DMs and closed back-channels — invisible, unverifiable, and out of reach for newcomers. Manifest turns *"what you're building toward"* into a structured, public record that the right counterpart can actually find.
 
 ## How it works
 
@@ -46,7 +46,7 @@ We open-source the primitives that make "open" real, and keep the application cl
 |---|---|
 | [`contracts`](https://github.com/usemanifestapp/contracts) | Proof of Collaboration NFT + Partnership & Agent registries |
 | [`intent-spec`](https://github.com/usemanifestapp/intent-spec) | The open, versioned schema for structured intent |
-| [`@manifestintent/sdk`](https://www.npmjs.com/package/@manifestintent/sdk) | TypeScript SDK for the Manifest API — bots, integrations, and independent attestation verification **· live on npm** |
+| [`manifest-sdk`](https://github.com/usemanifestapp/manifest-sdk) | TypeScript SDK for the Manifest API — bots, integrations, and independent attestation verification **· [npm](https://www.npmjs.com/package/@manifestintent/sdk)** |
 
 ## Links
 
