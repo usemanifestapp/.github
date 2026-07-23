@@ -22,7 +22,7 @@ Builders, protocols, investors, and DAOs can declare what they are looking for a
 
 ## Why Manifest
 
-The best collaboration in crypto is still pusued via cold DMs and closed back-channels — invisible, unverifiable, and out of reach for newcomers. Manifest turns *"what you're building toward"* into a structured, public record that the right counterpart can actually find.
+The best collaboration in crypto is still pursued via cold DMs and closed back-channels — invisible, unverifiable, and out of reach for newcomers. Manifest turns *"what you're building toward"* into a structured, public record that the right counterpart can actually find.
 
 ## How it works
 
